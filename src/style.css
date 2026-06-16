@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#planet-hud {
+  z-index: 999;
+}
