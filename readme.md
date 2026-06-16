@@ -1,19 +1,20 @@
-# ThreeJS with Vite Starter Pack
-### Prerequisites
-Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
+# 🪐 Solar System Facts
 
-### Installation
-Once you've cloned or downloaded this project file to your local machine, navigate to this project directory in your terminal.
+an interactive 3D solar system simulation built with Three.js and Vite.
 
-Run the following command to install the necessary dependencies:
+## Features
 
-``` bash
+- Realistic planet textures and orbital motion
+- Click any planet to view its facts (type, temperature, day length, moons)
+- Orbit speed controls
+- Smooth camera navigation with zoom and pan
+
+## Tech Stack
+
+- [Three.js](https://threejs.org/)
+- [Vite](https://vitejs.dev/)
+
+## Run locally
+
 npm install
-```
-### Running the project
-To start the development server, run the following command:
-
-``` bash
 npm run dev
-```
-This will start the server and open your default browser to your localhost. The site will reload automatically as you make changes to your code.
